@@ -1,2 +1,2 @@
-# Aprendendo a manipular e consumir APIs externas com JS
-> Status: Em andamento.
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
